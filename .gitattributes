@@ -1,0 +1,8 @@
+# Los runners de GitHub Actions son Linux. Si el workflow o el script de
+# Python viajaran con saltos de línea CRLF de Windows, bash falla con errores
+# tipo "$'\r': command not found". Se fuerza LF en todo lo que corre en CI.
+* text=auto eol=lf
+
+# Estos sí deben conservar CRLF: solo se ejecutan en Windows.
+*.bat text eol=crlf
+*.ps1 text eol=crlf

@@ -1,0 +1,68 @@
+{
+  "_comentario": "Configuracion del monitor de licitaciones de Remantico. Editar solo los valores, no los nombres de campo.",
+
+  "telegram": {
+    "activo": false,
+    "bot_token": "",
+    "chat_id": "",
+    "_ayuda": "Para activar: 1) En Telegram busca @BotFather, manda /newbot, copia el token aqui. 2) Escribele a tu bot cualquier mensaje. 3) Abre https://api.telegram.org/bot<TU_TOKEN>/getUpdates y copia el valor de chat.id. 4) Pon activo en true."
+  },
+
+  "materias": {
+    "5": "Servicios (orden administrativo)",
+    "2": "Adquisicion"
+  },
+
+  "conceptos_prioridad_alta": [
+    "Servicios de diseño, arquitectura, ingeniería y actividades relacionadas",
+    "Servicios de creatividad, preproducción y producción de publicidad, excepto Internet",
+    "Servicio de creación y difusión de contenido exclusivamente a través de Internet",
+    "Servicios de la industria fílmica, del sonido y del video",
+    "Difusión por radio, televisión y otros medios de mensajes sobre programas y actividades gubernamentales",
+    "Difusión por radio, televisión y otros medios de mensajes comerciales para promover la venta de bienes y servicios"
+  ],
+
+  "conceptos_prioridad_media": [
+    "Servicios de capacitación",
+    "Impresiones oficiales, formatos y formas valoradas",
+    "Material impreso e información digital",
+    "Servicios de acceso de Internet, redes y procesamiento de información",
+    "Software",
+    "Servicios de consultoría administrativa, procesos, técnica y en tecnologías de la información",
+    "Otros servicios de información",
+    "Servicios profesionales, científicos y técnicos integrales",
+    "Servicios de revelado de fotografías",
+    "Equipos y aparatos audiovisuales"
+  ],
+
+  "conceptos_prioridad_baja": [
+    "Congresos y convenciones",
+    "Exposiciones",
+    "Gastos de orden social y cultural",
+    "Servicios de apoyo administrativo, traducción, fotocopiado e impresión",
+    "Materiales y útiles de impresión y reproducción",
+    "Bienes artísticos, culturales y científicos"
+  ],
+
+  "palabras_clave": [
+    "diseño", "diseno", "branding", "marca", "logotipo", "identidad",
+    "publicidad", "publicitario", "publicitaria", "campaña", "campana", "difusión", "difusion",
+    "video", "audiovisual", "fotografía", "fotografia", "filmación", "filmacion",
+    "spot", "spots", "animación", "animacion",
+    "página web", "pagina web", "sitio web", "portal web", "desarrollo web",
+    "redes sociales", "community", "contenido digital", "multimedia",
+    "impresión", "impresion", "impreso", "editorial", "catálogo", "catalogo",
+    "señalética", "senaletica", "señalizacion", "rotulación", "rotulacion",
+    "stand", "expo", "evento", "activación", "activacion", "btl",
+    "capacitación", "capacitacion", "taller", "curso",
+    "comunicación", "comunicacion", "imagen institucional", "material promocional",
+    "realidad virtual", "vr", "videojuego", "gamificación", "gamificacion"
+  ],
+
+  "tipos_procedimiento_interes": [
+    "Licitación pública",
+    "Invitación a cuando menos tres proveedores/contratistas"
+  ],
+
+  "_nota_adjudicacion_directa": "Las adjudicaciones directas se incluyen en el reporte pero se marcan aparte: no se puede concursar en ellas, pero sirven como inteligencia de mercado (te dicen quien compra que y a quien)."
+}

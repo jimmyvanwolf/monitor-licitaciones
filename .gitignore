@@ -1,0 +1,9 @@
+# Bitácora local: en GitHub Actions la bitácora es la pestaña Actions.
+monitor.log
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Reporte de la versión anterior (ahora vive en docs/index.html)
+reporte.html
