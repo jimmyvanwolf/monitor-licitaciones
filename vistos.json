@@ -2260,5 +2260,47 @@
   "num": "PC-17214",
   "concepto": "Servicios de apoyo administrativo, traducción, fotocopiado e impresión",
   "puntaje": 23
+ },
+ "273349": {
+  "visto": "2026-08-24",
+  "num": "SO-14-2026-NUM-05",
+  "concepto": "Gastos de orden social y cultural",
+  "puntaje": 23
+ },
+ "273356": {
+  "visto": "2026-08-24",
+  "num": "SO-14-2026-NUM-14",
+  "concepto": "Gastos de ceremonial de los titulares de las dependencias y entidades",
+  "puntaje": 16
+ },
+ "273353": {
+  "visto": "2026-08-24",
+  "num": "SO-14-2026-NUM-07",
+  "concepto": "Gastos de orden social y cultural",
+  "puntaje": 15
+ },
+ "273347": {
+  "visto": "2026-08-24",
+  "num": "SEO-09-2026-NUM-02",
+  "concepto": "Servicios de apoyo administrativo, traducción, fotocopiado e impresión",
+  "puntaje": 31
+ },
+ "273351": {
+  "visto": "2026-08-24",
+  "num": "SO-14-2026-NUM-06",
+  "concepto": "Gastos de orden social y cultural",
+  "puntaje": 15
+ },
+ "273354": {
+  "visto": "2026-08-24",
+  "num": "SO-14-2026-NUM-12",
+  "concepto": "Gastos de ceremonial de los titulares de las dependencias y entidades",
+  "puntaje": 8
+ },
+ "273355": {
+  "visto": "2026-08-24",
+  "num": "SO-14-2026-NUM-13",
+  "concepto": "Gastos de ceremonial de los titulares de las dependencias y entidades",
+  "puntaje": 8
  }
 }
