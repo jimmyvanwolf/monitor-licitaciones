@@ -2494,5 +2494,17 @@
   "num": "SH/LPE/041/2026",
   "concepto": "Gastos de orden social y cultural",
   "puntaje": 35
+ },
+ "274139": {
+  "visto": "2026-09-28",
+  "num": "CA-OM-116-2026",
+  "concepto": "Software",
+  "puntaje": 55
+ },
+ "274137": {
+  "visto": "2026-09-28",
+  "num": "CA-OM-114-2026",
+  "concepto": "Artículos metálicos para la construcción",
+  "puntaje": 28
  }
 }
