@@ -2530,5 +2530,17 @@
   "num": "MC-CAACS-N19/2026",
   "concepto": "Equipos y aparatos audiovisuales",
   "puntaje": 63
+ },
+ "274380": {
+  "visto": "2026-10-07",
+  "num": "REQ195-2026",
+  "concepto": "Otros arrendamientos",
+  "puntaje": 8
+ },
+ "274381": {
+  "visto": "2026-10-07",
+  "num": "LA-JCAS-078-2026",
+  "concepto": "Cámaras fotográficas y de video",
+  "puntaje": 28
  }
 }
