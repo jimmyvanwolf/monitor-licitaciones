@@ -2548,5 +2548,17 @@
   "num": "PCE-DIIS-AD-2026-26",
   "concepto": "Servicios profesionales, científicos y técnicos integrales",
   "puntaje": 35
+ },
+ "274560": {
+  "visto": "2026-10-14",
+  "num": "SO-17-2026-NUM-16",
+  "concepto": "Gastos de orden social y cultural",
+  "puntaje": 23
+ },
+ "274582": {
+  "visto": "2026-10-14",
+  "num": "LA-JCAS-079-2026",
+  "concepto": "Servicios de consultoría administrativa, procesos, técnica y en tecnologías de la información",
+  "puntaje": 55
  }
 }
