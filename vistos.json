@@ -2584,5 +2584,17 @@
   "num": "PCE-DIIS-AD-2026-27",
   "concepto": "Servicios profesionales, científicos y técnicos integrales",
   "puntaje": 35
+ },
+ "274878": {
+  "visto": "2026-10-24",
+  "num": "IEE-LP-10/26",
+  "concepto": "Servicios de apoyo administrativo, traducción, fotocopiado e impresión",
+  "puntaje": 65
+ },
+ "274877": {
+  "visto": "2026-10-24",
+  "num": "IEE-LP-09/26",
+  "concepto": "Material impreso e información digital",
+  "puntaje": 63
  }
 }
