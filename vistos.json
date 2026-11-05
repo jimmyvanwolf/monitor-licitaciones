@@ -2626,5 +2626,17 @@
   "num": "CEDH/16C/4/021/2026",
   "concepto": "Congresos y convenciones",
   "puntaje": 15
+ },
+ "275342": {
+  "visto": "2026-11-05",
+  "num": "DCA/CS/186/2026",
+  "concepto": "Servicio de creación y difusión de contenido exclusivamente a través de Internet",
+  "puntaje": 76
+ },
+ "275329": {
+  "visto": "2026-11-05",
+  "num": "PJE-15-2026-BIS",
+  "concepto": "Equipo de cómputo y de tecnologías de la información",
+  "puntaje": 28
  }
 }
