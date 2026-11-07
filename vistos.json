@@ -2644,5 +2644,11 @@
   "num": "PCE-DIIS-AD-2026-29",
   "concepto": "Servicios profesionales, científicos y técnicos integrales",
   "puntaje": 35
+ },
+ "275386": {
+  "visto": "2026-11-07",
+  "num": "UTCH/LPE/04/2026",
+  "concepto": "Servicios de acceso de Internet, redes y procesamiento de información",
+  "puntaje": 55
  }
 }
