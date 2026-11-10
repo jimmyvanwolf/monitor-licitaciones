@@ -2650,5 +2650,11 @@
   "num": "UTCH/LPE/04/2026",
   "concepto": "Servicios de acceso de Internet, redes y procesamiento de información",
   "puntaje": 55
+ },
+ "275418": {
+  "visto": "2026-11-09",
+  "num": "DIF/LP/29/2026",
+  "concepto": "Servicios de diseño, arquitectura, ingeniería y actividades relacionadas",
+  "puntaje": 88
  }
 }
