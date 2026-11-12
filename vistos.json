@@ -2662,5 +2662,17 @@
   "num": "CECYTECH/AD/011/2026",
   "concepto": "Servicios de consultoría administrativa, procesos, técnica y en tecnologías de la información",
   "puntaje": 35
+ },
+ "275530": {
+  "visto": "2026-11-12",
+  "num": "REQ1091-2024",
+  "concepto": "Servicios de investigación científica y desarrollo",
+  "puntaje": 8
+ },
+ "275533": {
+  "visto": "2026-11-12",
+  "num": "SH/LPE/053/2026",
+  "concepto": "Mobiliario de oficina y estantería",
+  "puntaje": 28
  }
 }
