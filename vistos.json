@@ -2698,5 +2698,47 @@
   "num": "PCE-LPP-002-2027",
   "concepto": "Servicios profesionales, científicos y técnicos integrales",
   "puntaje": 55
+ },
+ "275704": {
+  "visto": "2026-11-23",
+  "num": "MCU-CAACS-499/2026",
+  "concepto": "Servicios de creatividad, preproducción y producción de publicidad, excepto Internet",
+  "puntaje": 68
+ },
+ "275710": {
+  "visto": "2026-11-23",
+  "num": "MCU-CAACS-507/2026",
+  "concepto": "Servicios de creatividad, preproducción y producción de publicidad, excepto Internet",
+  "puntaje": 68
+ },
+ "275711": {
+  "visto": "2026-11-23",
+  "num": "MCU-CAACS-512/2026",
+  "concepto": "Servicios de creatividad, preproducción y producción de publicidad, excepto Internet",
+  "puntaje": 68
+ },
+ "275705": {
+  "visto": "2026-11-23",
+  "num": "MCU-CAACS-500/2026",
+  "concepto": "Servicios de creatividad, preproducción y producción de publicidad, excepto Internet",
+  "puntaje": 68
+ },
+ "275709": {
+  "visto": "2026-11-23",
+  "num": "MCU-CAACS-505/2026",
+  "concepto": "Servicios de creatividad, preproducción y producción de publicidad, excepto Internet",
+  "puntaje": 68
+ },
+ "275708": {
+  "visto": "2026-11-23",
+  "num": "MCU-CAACS-502/2026",
+  "concepto": "Servicios de creatividad, preproducción y producción de publicidad, excepto Internet",
+  "puntaje": 68
+ },
+ "275706": {
+  "visto": "2026-11-23",
+  "num": "MCU-CAACS-501/2026",
+  "concepto": "Servicios de creatividad, preproducción y producción de publicidad, excepto Internet",
+  "puntaje": 68
  }
 }
