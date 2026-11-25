@@ -2752,5 +2752,23 @@
   "num": "PCE-LPP-003-2027",
   "concepto": "Servicios profesionales, científicos y técnicos integrales",
   "puntaje": 55
+ },
+ "275748": {
+  "visto": "2026-11-25",
+  "num": "SH/LPE/057/2026",
+  "concepto": "Servicios de acceso de Internet, redes y procesamiento de información",
+  "puntaje": 55
+ },
+ "275738": {
+  "visto": "2026-11-25",
+  "num": "IIC-LPNM-03-2026",
+  "concepto": "Servicios profesionales, científicos y técnicos integrales",
+  "puntaje": 55
+ },
+ "275742": {
+  "visto": "2026-11-25",
+  "num": "PJE-18-2026",
+  "concepto": "Equipo de cómputo y de tecnologías de la información",
+  "puntaje": 28
  }
 }
